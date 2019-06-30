@@ -25,12 +25,14 @@ EEEEE <br>
 
 ## 3
 
+<pre>
 * * * * *
 * * * * * 
 * * * * * 
 * * * * * 
 * * * * * 
 * * * * * 
+</pre>
 
 [Solution 3](https://github.com/ipshitag/Patterns/blob/master/asteriskRectangle.java)
 
