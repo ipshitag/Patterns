@@ -76,11 +76,13 @@ E<br>
 
 ## 8
 
-E E E E E <br>
-  D D D D <br>
-    C C C <br>
-      B B <br>
-        A <br>
+<pre>
+E E E E E 
+  D D D D 
+    C C C 
+      B B 
+        A 
+</pre>        
         
 [Solution 8](https://github.com/ipshitag/Patterns/blob/master/reverseAlphabet.java)        
 
