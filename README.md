@@ -73,3 +73,14 @@ D D <br>
 E<br>
 
 [Solution 7](https://github.com/ipshitag/Patterns/blob/master/alphabeticalRightAngleReverse.java)
+
+## 8
+
+E E E E E <br>
+  D D D D <br>
+    C C C <br>
+      B B <br>
+        A <br>
+        
+[Solution 8](https://github.com/ipshitag/Patterns/blob/master/reverseAlphabet.java)        
+
