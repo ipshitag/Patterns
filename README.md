@@ -86,5 +86,17 @@ E E E E E
         A 
 </pre>        
         
-[Solution 8](https://github.com/ipshitag/Patterns/blob/master/reverseAlphabet.java)        
+[Solution 8](https://github.com/ipshitag/Patterns/blob/master/reverseAlphabet.java)  
+
+## 9
+
+<pre>
+* * * * * 
+* * * * 
+* * * 
+* * 
+*  
+</pre>
+
+[Solution 9](https://github.com/ipshitag/Patterns/blob/master/asteriskRightAngleReverse.java)
 
