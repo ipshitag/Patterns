@@ -100,3 +100,19 @@ E E E E E
 
 [Solution 9](https://github.com/ipshitag/Patterns/blob/master/asteriskRightAngleReverse.java)
 
+## 10
+
+<pre>
+        A 
+
+      C C C 
+
+    E E E E E 
+
+  G G G G G G G 
+
+I I I I I I I I I
+</pre>
+
+[Solution 10](https://github.com/ipshitag/Patterns/blob/master/pattern10.java)
+
