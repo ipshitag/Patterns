@@ -128,3 +128,14 @@ I I I I I I I I I
 
 [Solution 11](https://github.com/ipshitag/Patterns/blob/master/asteriskRightAngle.java)
 
+## 12
+
+<pre>
+* * * * * * * * * 
+  * * * * * * * 
+    * * * * * 
+      * * * 
+        * 
+</pre>
+[Solution 12](https://github.com/ipshitag/Patterns/blob/master/asteriskHalfDiamond.java)
+
