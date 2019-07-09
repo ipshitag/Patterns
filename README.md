@@ -137,5 +137,19 @@ I I I I I I I I I
       * * * 
         * 
 </pre>
+
 [Solution 12](https://github.com/ipshitag/Patterns/blob/master/asteriskHalfDiamond.java)
+
+## 13
+
+<pre>
+A B C D E 
+  A B C D 
+    A B C 
+      A B 
+        A
+</pre>
+
+[Solution](https://github.com/ipshitag/Patterns/blob/master/alphabetReverse.java)
+
 
