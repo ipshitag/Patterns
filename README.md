@@ -150,6 +150,6 @@ A B C D E
         A
 </pre>
 
-[Solution](https://github.com/ipshitag/Patterns/blob/master/alphabetReverse.java)
+[Solution 13](https://github.com/ipshitag/Patterns/blob/master/alphabetReverse.java)
 
 
