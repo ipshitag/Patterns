@@ -152,4 +152,8 @@ A B C D E
 
 [Solution 13](https://github.com/ipshitag/Patterns/blob/master/alphabetReverse.java)
 
+<hr>
+<hr>
+:squirrel:
+
 
