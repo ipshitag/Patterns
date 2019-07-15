@@ -152,6 +152,18 @@ A B C D E
 
 [Solution 13](https://github.com/ipshitag/Patterns/blob/master/alphabetReverse.java)
 
+## 14
+
+<pre>
+            A 
+          C B A 
+        E D C B A 
+      G F E D C B A 
+    I H G F E D C B A 
+ </pre>   
+ 
+ [Solution 14](https://github.com/ipshitag/Patterns/blob/master/alphabeticalHalfDiamond.java)
+
 <hr>
 <hr>
 :squirrel:
