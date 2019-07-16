@@ -5,21 +5,25 @@ The patterns and the solutions:
 
 ## 1
 
+<pre>
 AAAAA <br>
 BBBBB <br>
 CCCCC <br>
 DDDDD <br>
 EEEEE <br>
+</pre>
 
 [Solution 1](https://github.com/ipshitag/Patterns/blob/master/alphabeticalRectangle.java)
 
 ## 2
 
+<pre>
 1 2 3 4 5 <br>
 1 2 3 4 5 <br>
 1 2 3 4 5 <br>
 1 2 3 4 5 <br> 
 1 2 3 4 5 <br>
+</pre>
 
 [Solution 2](https://github.com/ipshitag/Patterns/blob/master/ascendingNumberRectangle.java)
 
@@ -48,31 +52,37 @@ EEEEE <br>
 
 ## 5
 
+<pre>
 E D C B A <br>
 E D C B <br>
 E D C <br>
 E D  <br>
-E <br> 
+E <br>
+</pre>
 
 [Solution 5](https://github.com/ipshitag/Patterns/blob/master/inverseAlphabetRectangle.java)
 
 ## 6
 
+<pre>
 1 1 1 1 1 <br>
 2 2 2 2 2 <br>
 3 3 3 3 3 <br>
 4 4 4 4 4 <br>
 5 5 5 5 5 <br>
+</pre>
 
 [Solution 6](https://github.com/ipshitag/Patterns/blob/master/numberRectangle.java)
 
 ## 7
 
+<pre>
 A A A A A <br>
 B B B B <br>
 C C C <br>
 D D <br>
 E<br>
+</pre>
 
 [Solution 7](https://github.com/ipshitag/Patterns/blob/master/alphabeticalRightAngleReverse.java)
 
@@ -104,13 +114,9 @@ E E E E E
 
 <pre>
         A 
-
       C C C 
-
     E E E E E 
-
   G G G G G G G 
-
 I I I I I I I I I
 </pre>
 
