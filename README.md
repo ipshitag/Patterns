@@ -182,6 +182,18 @@ A
 
 [Solution 15](https://github.com/ipshitag/Patterns/blob/master/alphabetical.java)
 
+## 16
+
+<pre>
+            A 
+          A B C 
+        A B C D E 
+      A B C D E F G 
+    A B C D E F G H I  
+</pre>
+
+[Solution 16](https://github.com/ipshitag/Patterns/blob/master/increasingAlphabeticalHalfDiamond.java)
+
 <hr>
 <hr>
 :squirrel:
