@@ -204,6 +204,8 @@ A
    5 5 5 5 5
 </pre>
 
+[Solution 17](https://github.com/ipshitag/Patterns/blob/master/reverseTriangle.java)
+
 
 
 <hr>
