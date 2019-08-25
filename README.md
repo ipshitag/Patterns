@@ -216,7 +216,7 @@ A B C D
 A B C D E
 <pre>
 
-[Solution 18]()
+[Solution 18](https://github.com/ipshitag/Patterns/blob/master/ascendingAlphabeticalRightAngleTriangle.java)
 
 
 
