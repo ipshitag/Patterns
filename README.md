@@ -214,7 +214,7 @@ A B
 A B C 
 A B C D 
 A B C D E
-<pre>
+</pre>
 
 [Solution 18](https://github.com/ipshitag/Patterns/blob/master/ascendingAlphabeticalRightAngleTriangle.java)
 
