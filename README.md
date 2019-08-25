@@ -206,6 +206,18 @@ A
 
 [Solution 17](https://github.com/ipshitag/Patterns/blob/master/reverseTriangle.java)
 
+## 18
+
+<pre>
+A 
+A B 
+A B C 
+A B C D 
+A B C D E
+<pre>
+
+[Solution 18]()
+
 
 
 <hr>
