@@ -218,6 +218,17 @@ A B C D E
 
 [Solution 18](https://github.com/ipshitag/Patterns/blob/master/ascendingAlphabeticalRightAngleTriangle.java)
 
+## 19
+
+<pre>
+        * 
+      * * 
+    * * * 
+  * * * * 
+* * * * *
+</pre>
+
+[Solution 19](https://github.com/ipshitag/Patterns/blob/master/rightAngleAsterisk.java)
 
 
 <hr>
