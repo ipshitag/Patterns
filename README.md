@@ -230,6 +230,18 @@ A B C D E
 
 [Solution 19](https://github.com/ipshitag/Patterns/blob/master/rightAngleAsterisk.java)
 
+## 20
+
+<pre>
+9 9 9 9 9 9 9 9 9
+  7 7 7 7 7 7 7
+    5 5 5 5 5
+      3 3 3
+        1
+ </pre>    
+ 
+ [Solution 20](https://github.com/ipshitag/Patterns/blob/master/reverseAlphaTri.java)
+
 
 <hr>
 <hr>
