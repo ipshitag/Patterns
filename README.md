@@ -252,6 +252,8 @@ A B C D E
     * * * * * * * * *
 </pre>    
 
+[Solution 21](https://github.com/ipshitag/Patterns/blob/master/asteriskTriangle.java)
+
 
 <hr>
 <hr>
