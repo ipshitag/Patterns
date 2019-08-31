@@ -241,6 +241,16 @@ A B C D E
  </pre>    
  
  [Solution 20](https://github.com/ipshitag/Patterns/blob/master/reverseAlphaTri.java)
+ 
+ ## 21
+ 
+ <pre>
+             * 
+          * * * 
+        * * * * * 
+      * * * * * * * 
+    * * * * * * * * *
+</pre>    
 
 
 <hr>
