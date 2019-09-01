@@ -264,7 +264,7 @@ A B C D E
 A B C D E
 </pre>
 
-[Solution 22]()
+[Solution 22](https://github.com/ipshitag/Patterns/blob/master/AscendingAlphabeticalRectangle)
 
 
 <hr>
