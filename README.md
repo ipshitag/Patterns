@@ -254,6 +254,18 @@ A B C D E
 
 [Solution 21](https://github.com/ipshitag/Patterns/blob/master/asteriskTriangle.java)
 
+## 22
+
+<pre>
+A B C D E 
+A B C D E 
+A B C D E 
+A B C D E 
+A B C D E
+</pre>
+
+[Solution 22]()
+
 
 <hr>
 <hr>
