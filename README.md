@@ -269,6 +269,6 @@ A B C D E
 
 <hr>
 <hr>
-:squirrel: :octocat:
+:squirrel:
 
 
