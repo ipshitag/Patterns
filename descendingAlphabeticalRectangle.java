@@ -21,13 +21,9 @@ Input
 5
 Output
 E D C B A 
-
 E D C B A 
-
 E D C B A 
-
 E D C B A 
-
 E D C B A
 */
 
