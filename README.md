@@ -276,7 +276,7 @@ E D C B A
 E D C B A
 </pre>
 
-[Solution 23]
+[Solution 23](https://github.com/ipshitag/Patterns/blob/master/descendingAlphabeticalRectangle.java)
 
 
 <hr>
