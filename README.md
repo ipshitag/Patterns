@@ -266,6 +266,18 @@ A B C D E
 
 [Solution 22](https://github.com/ipshitag/Patterns/blob/master/AscendingAlphabeticalRectangle)
 
+## 23
+
+<pre>
+E D C B A
+E D C B A
+E D C B A
+E D C B A
+E D C B A
+</pre>
+
+[Solution 23]
+
 
 <hr>
 <hr>
