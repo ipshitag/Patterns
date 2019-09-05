@@ -278,6 +278,18 @@ E D C B A
 
 [Solution 23](https://github.com/ipshitag/Patterns/blob/master/descendingAlphabeticalRectangle.java)
 
+## 24
+
+<pre>
+        1 
+      3 2 1 
+    5 4 3 2 1 
+  7 6 5 4 3 2 1 
+9 8 7 6 5 4 3 2 1
+</pre>
+
+[Solution 24](https://github.com/ipshitag/Patterns/blob/master/patternProblem40.java)
+
 
 <hr>
 <hr>
