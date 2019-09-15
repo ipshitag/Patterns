@@ -290,6 +290,18 @@ E D C B A
 
 [Solution 24](https://github.com/ipshitag/Patterns/blob/master/patternProblem40.java)
 
+## 25
+
+<pre>
+5 5 5 5 5 5 5 5 5 
+  4 4 4 4 4 4 4 
+    3 3 3 3 3 
+      2 2 2 
+        1
+ </pre>
+ 
+ [Solution 25](https://github.com/ipshitag/Patterns/blob/master/numberHalfDiamond.java)
+
 
 <hr>
 <hr>
